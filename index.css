@@ -87,3 +87,6 @@ section#counter-stats {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+.qwerty {
+  margin: 10px;
+}
